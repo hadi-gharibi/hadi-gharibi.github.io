@@ -3,17 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "Data Diary"
+  # title: "My personal blog which is built using Quarto"
   navbar:
+    background: primary
+    search: true
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/hadi-gharibi
       - icon: twitter
         href: https://twitter.com/GharibiHadi
+    left:
+      - text: "Hadi Gharibi"
+        file: about.qmd
+      - text: "Blog"
+        file: index.qmd
+      - text: "Worklog"
+        file: worklog.qmd
+      
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
 
 

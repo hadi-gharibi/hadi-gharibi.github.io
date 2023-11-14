@@ -1,5 +1,5 @@
 ---
-title: "About"
+# title: "About"
 image: profile.jpg
 about:
   template: jolla
@@ -15,5 +15,12 @@ about:
       href: https://github.com/hadi-gharibi
 
 ---
+# Welcome
 
-About this blog
+
+# About Me
+
+I am an experienced data scientist with an engineering background. I enjoy managing and developing data projects from defining project goals to working with stakeholders, to implementing and monitoring models in production. My aim is to find the balance between utilizing data for business success and applying my engineering skills for optimal solutions. I am passionate about using data to drive business decisions and help organizations achieve their goals. I'm here to share what I have been learning in this journey.
+
+# A Quick Guide
+You can check out everything that I've worked on to understand the AI Space on my [Work Log](./worklog.qmd). To read some of my posts, I recommend heading over to the [Posts](./index.qmd)

@@ -1,5 +1,5 @@
 ---
-title: "Reflections on My Reading and Experiences"
+# title: "Posts"
 listing:
   contents: posts
   sort: "date desc"
@@ -8,6 +8,8 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
+sidebar:
+  contents: auto
 title-block-banner: true
 ---
 

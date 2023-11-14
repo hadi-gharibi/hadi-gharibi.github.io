@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Reflections on My Reading and Experiences",
+    "title": "",
     "section": "",
     "text": "No matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Welcome",
     "section": "",
-    "text": "About this blog"
+    "text": "Welcome\n\n\nAbout Me\nI am an experienced data scientist with an engineering background. I enjoy managing and developing data projects from defining project goals to working with stakeholders, to implementing and monitoring models in production. My aim is to find the balance between utilizing data for business success and applying my engineering skills for optimal solutions. I am passionate about using data to drive business decisions and help organizations achieve their goals. I’m here to share what I have been learning in this journey.\n\n\nA Quick Guide\nYou can check out everything that I’ve worked on to understand the AI Space on my Work Log. To read some of my posts, I recommend heading over to the Posts"
+  },
+  {
+    "objectID": "worklog.html",
+    "href": "worklog.html",
+    "title": "November",
+    "section": "",
+    "text": "November\nFinally decided to write something here. Still to shortlist the things I want to write about."
   }
 ]
